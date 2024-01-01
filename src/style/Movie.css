@@ -1,0 +1,11 @@
+.movie-title{
+    text-decoration: none !important;
+    color: black;
+    font-family: 'Times New Roman', Times, serif !important;
+    border-bottom: none !important;
+}
+
+.card-image{
+    height: 350px;
+    width: 250px !important;
+}
